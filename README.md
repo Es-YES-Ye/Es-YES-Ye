@@ -6,7 +6,7 @@
 
   ### 💽 Databases
   <img alt="Oracle SQL" src ="https://img.shields.io/badge/Oracle SQL-3776AB.svg?&style=for-the-badge&logo=Oracle SQL&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-#47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=green"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-#47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=#47A248"/>
   
 
   ### 📚 Frameworks, Platforms and Libraries
