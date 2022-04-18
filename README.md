@@ -6,9 +6,9 @@
 
   ### 💽 Databases
   <img alt="Oracle SQL" src ="https://img.shields.io/badge/Oracle SQL-3776AB.svg?&style=for-the-badge&logo=Oracle SQL&logoColor=white"/>
-  Oracle SQL
-  MongoDB
- 
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-#47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=green"/>
+  
+
   ### 📚 Frameworks, Platforms and Libraries
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
