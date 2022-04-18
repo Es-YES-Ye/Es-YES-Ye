@@ -5,6 +5,7 @@
 ### 🛠 Tools
 
   ### 💽 Databases
+  <img alt="Oracle SQL" src ="https://img.shields.io/badge/Oracle SQL-3776AB.svg?&style=for-the-badge&logo=Oracle SQL&logoColor=white"/>
   Oracle SQL
   MongoDB
  
