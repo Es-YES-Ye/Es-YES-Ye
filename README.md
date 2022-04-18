@@ -6,8 +6,8 @@
 
   ### 💽 Databases
   <img alt="Oracle SQL" src ="https://img.shields.io/badge/Oracle SQL-3776AB.svg?&style=for-the-badge&logo=Oracle SQL&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248"/>
-  
+  ![mongodb](https://user-images.githubusercontent.com/96801244/163739623-aa539a07-9a3f-4779-87f0-12717ba0217c.svg)
+
 
   ### 📚 Frameworks, Platforms and Libraries
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -21,7 +21,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  Node.js
+  ![nodedotjs](https://user-images.githubusercontent.com/96801244/163739606-abbcd3fe-caac-4f98-9db1-5dcd6e62c0f3.svg)
 
 
   ### 🖥 IDEs/Editors
