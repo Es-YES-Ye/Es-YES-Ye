@@ -7,7 +7,7 @@
   ### 💽 Databases
   <img alt="Oracle SQL" src ="https://img.shields.io/badge/Oracle SQL-3776AB.svg?&style=for-the-badge&logo=Oracle SQL&logoColor=white"/>
   <img alt="mongodb" src ="https://img.shields.io/badge/MongoDB-339933.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-![mongodb](https://user-images.githubusercontent.com/96801244/163739623-aa539a07-9a3f-4779-87f0-12717ba0217c.svg)
+
 
 
   ### 📚 Frameworks, Platforms and Libraries
