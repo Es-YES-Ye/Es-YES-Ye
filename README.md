@@ -1,5 +1,5 @@
 
-###  HEllO👋 I'm younsun 😄 
+###  HEllO👋 I'm younsun! 😄 
 ### 💬 Ask me 💬 younsun0107@gmail.com 
 
 
